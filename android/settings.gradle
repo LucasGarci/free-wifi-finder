@@ -1,0 +1,3 @@
+rootProject.name = 'wifiFinder'
+
+include ':app'

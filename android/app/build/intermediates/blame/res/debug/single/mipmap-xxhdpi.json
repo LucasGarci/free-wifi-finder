@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/lucas/Development/free-wifi-finder/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/lucas/Development/free-wifi-finder/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]
