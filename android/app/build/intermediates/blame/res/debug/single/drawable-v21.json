@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/lucas/.android/build-cache/f92d07247564bd162db0eb32519b6f298287cf0b/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/lucas/.android/build-cache/e525d33f0ce41401c5015a33b31e9120b862c611/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/lucas/.android/build-cache/f92d07247564bd162db0eb32519b6f298287cf0b/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/lucas/.android/build-cache/f92d07247564bd162db0eb32519b6f298287cf0b/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]
