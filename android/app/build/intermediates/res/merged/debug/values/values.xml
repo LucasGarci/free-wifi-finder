@@ -168,7 +168,6 @@
       <enum name="centerInside" value="5"/>
       <enum name="centerCrop" value="6"/>
       <enum name="focusCrop" value="7"/>
-      <enum name="fitBottomStart" value="8"/>
     </attr><attr format="reference" name="retryImage"/><attr name="retryImageScaleType">
       <enum name="none" value="-1"/>
       <enum name="fitXY" value="0"/>
@@ -179,7 +178,6 @@
       <enum name="centerInside" value="5"/>
       <enum name="centerCrop" value="6"/>
       <enum name="focusCrop" value="7"/>
-      <enum name="fitBottomStart" value="8"/>
     </attr><attr format="reference" name="failureImage"/><attr name="failureImageScaleType">
       <enum name="none" value="-1"/>
       <enum name="fitXY" value="0"/>
@@ -190,7 +188,6 @@
       <enum name="centerInside" value="5"/>
       <enum name="centerCrop" value="6"/>
       <enum name="focusCrop" value="7"/>
-      <enum name="fitBottomStart" value="8"/>
     </attr><attr format="reference" name="progressBarImage"/><attr name="progressBarImageScaleType">
       <enum name="none" value="-1"/>
       <enum name="fitXY" value="0"/>
@@ -201,7 +198,6 @@
       <enum name="centerInside" value="5"/>
       <enum name="centerCrop" value="6"/>
       <enum name="focusCrop" value="7"/>
-      <enum name="fitBottomStart" value="8"/>
     </attr><attr format="integer" name="progressBarAutoRotateInterval"/><attr name="actualImageScaleType">
       <enum name="none" value="-1"/>
       <enum name="fitXY" value="0"/>
@@ -212,8 +208,7 @@
       <enum name="centerInside" value="5"/>
       <enum name="centerCrop" value="6"/>
       <enum name="focusCrop" value="7"/>
-      <enum name="fitBottomStart" value="8"/>
-    </attr><attr format="reference" name="backgroundImage"/><attr format="reference" name="overlayImage"/><attr format="reference" name="pressedStateOverlayImage"/><attr format="boolean" name="roundAsCircle"/><attr format="dimension" name="roundedCornerRadius"/><attr format="boolean" name="roundTopLeft"/><attr format="boolean" name="roundTopRight"/><attr format="boolean" name="roundBottomRight"/><attr format="boolean" name="roundBottomLeft"/><attr format="boolean" name="roundTopStart"/><attr format="boolean" name="roundTopEnd"/><attr format="boolean" name="roundBottomStart"/><attr format="boolean" name="roundBottomEnd"/><attr format="color" name="roundWithOverlayColor"/><attr format="dimension" name="roundingBorderWidth"/><attr format="color" name="roundingBorderColor"/><attr format="dimension" name="roundingBorderPadding"/></declare-styleable>
+    </attr><attr format="reference" name="backgroundImage"/><attr format="reference" name="overlayImage"/><attr format="reference" name="pressedStateOverlayImage"/><attr format="boolean" name="roundAsCircle"/><attr format="dimension" name="roundedCornerRadius"/><attr format="boolean" name="roundTopLeft"/><attr format="boolean" name="roundTopRight"/><attr format="boolean" name="roundBottomRight"/><attr format="boolean" name="roundBottomLeft"/><attr format="color" name="roundWithOverlayColor"/><attr format="dimension" name="roundingBorderWidth"/><attr format="color" name="roundingBorderColor"/><attr format="dimension" name="roundingBorderPadding"/></declare-styleable>
     <declare-styleable name="LinearLayoutCompat"><attr name="android:orientation"/><attr name="android:gravity"/><attr name="android:baselineAligned"/><attr name="android:baselineAlignedChildIndex"/><attr name="android:weightSum"/><attr format="boolean" name="measureWithLargestChild"/><attr name="divider"/><attr name="showDividers">
             <flag name="none" value="0"/>
             <flag name="beginning" value="1"/>
@@ -267,7 +262,7 @@
     <declare-styleable name="PopupWindowBackgroundState"><attr format="boolean" name="state_above_anchor"/></declare-styleable>
     <declare-styleable name="RecycleListView"><attr format="dimension" name="paddingBottomNoButtons"/><attr format="dimension" name="paddingTopNoTitle"/></declare-styleable>
     <declare-styleable name="SearchView"><attr format="reference" name="layout"/><attr format="boolean" name="iconifiedByDefault"/><attr name="android:maxWidth"/><attr format="string" name="queryHint"/><attr format="string" name="defaultQueryHint"/><attr name="android:imeOptions"/><attr name="android:inputType"/><attr format="reference" name="closeIcon"/><attr format="reference" name="goIcon"/><attr format="reference" name="searchIcon"/><attr format="reference" name="searchHintIcon"/><attr format="reference" name="voiceIcon"/><attr format="reference" name="commitIcon"/><attr format="reference" name="suggestionRowLayout"/><attr format="reference" name="queryBackground"/><attr format="reference" name="submitBackground"/><attr name="android:focusable"/></declare-styleable>
-    <declare-styleable name="SimpleDraweeView"><attr format="string" name="actualImageUri"/><attr format="reference" name="actualImageResource"/><attr name="fadeDuration"/><attr name="viewAspectRatio"/><attr name="placeholderImage"/><attr name="placeholderImageScaleType"/><attr name="retryImage"/><attr name="retryImageScaleType"/><attr name="failureImage"/><attr name="failureImageScaleType"/><attr name="progressBarImage"/><attr name="progressBarImageScaleType"/><attr name="progressBarAutoRotateInterval"/><attr name="actualImageScaleType"/><attr name="backgroundImage"/><attr name="overlayImage"/><attr name="pressedStateOverlayImage"/><attr name="roundAsCircle"/><attr name="roundedCornerRadius"/><attr name="roundTopLeft"/><attr name="roundTopRight"/><attr name="roundBottomRight"/><attr name="roundBottomLeft"/><attr name="roundTopStart"/><attr name="roundTopEnd"/><attr name="roundBottomStart"/><attr name="roundBottomEnd"/><attr name="roundWithOverlayColor"/><attr name="roundingBorderWidth"/><attr name="roundingBorderColor"/><attr name="roundingBorderPadding"/></declare-styleable>
+    <declare-styleable name="SimpleDraweeView"><attr format="string" name="actualImageUri"/><attr format="reference" name="actualImageResource"/></declare-styleable>
     <declare-styleable name="Spinner"><attr name="android:prompt"/><attr name="popupTheme"/><attr name="android:popupBackground"/><attr name="android:dropDownWidth"/><attr name="android:entries"/></declare-styleable>
     <declare-styleable name="SwitchCompat"><attr name="android:thumb"/><attr format="color" name="thumbTint"/><attr name="thumbTintMode">
             
@@ -446,7 +441,6 @@
     <item name="text2" type="id"/>
     <item name="title" type="id"/>
     <item name="up" type="id"/>
-    <item name="view_tag_instance_handle" type="id"/>
     <item name="view_tag_native_id" type="id"/>
     <integer name="abc_config_activityDefaultDur">220</integer>
     <integer name="abc_config_activityShortDur">150</integer>

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+        "outputFile": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 116
                 },
                 "from": {
-                    "file": "/Users/lucas/.android/build-cache/e525d33f0ce41401c5015a33b31e9120b862c611/output/res/values-v16/values-v16.xml",
+                    "file": "C:\\Users\\LGF\\.android\\build-cache\\e5e2f63a4a2a82ceb74e7fc328645774d0e0b17d\\output\\res\\values-v16\\values-v16.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -31,7 +31,7 @@
                     "endOffset": 289
                 },
                 "from": {
-                    "file": "/Users/lucas/.android/build-cache/f92d07247564bd162db0eb32519b6f298287cf0b/output/res/values-v16/values-v16.xml",
+                    "file": "C:\\Users\\LGF\\.android\\build-cache\\39cb772dbddd1fa1e974c2dc5edd87e01a2f9219\\output\\res\\values-v16\\values-v16.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

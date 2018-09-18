@@ -1,38 +1,38 @@
 [
     {
-        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/lucas/.android/build-cache/f92d07247564bd162db0eb32519b6f298287cf0b/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+        "merged": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\LGF\\.android\\build-cache\\39cb772dbddd1fa1e974c2dc5edd87e01a2f9219\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
-        "source": "/Users/lucas/.android/build-cache/f92d07247564bd162db0eb32519b6f298287cf0b/output/res/color-v23/abc_color_highlight_material.xml"
+        "merged": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\LGF\\.android\\build-cache\\39cb772dbddd1fa1e974c2dc5edd87e01a2f9219\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
-        "source": "/Users/lucas/.android/build-cache/f92d07247564bd162db0eb32519b6f298287cf0b/output/res/color-v23/abc_tint_switch_track.xml"
+        "merged": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\LGF\\.android\\build-cache\\39cb772dbddd1fa1e974c2dc5edd87e01a2f9219\\output\\res\\color-v23\\abc_tint_spinner.xml"
     },
     {
-        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
-        "source": "/Users/lucas/.android/build-cache/f92d07247564bd162db0eb32519b6f298287cf0b/output/res/color-v23/abc_tint_edittext.xml"
+        "merged": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\LGF\\.android\\build-cache\\39cb772dbddd1fa1e974c2dc5edd87e01a2f9219\\output\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
-        "source": "/Users/lucas/.android/build-cache/f92d07247564bd162db0eb32519b6f298287cf0b/output/res/color-v23/abc_tint_default.xml"
+        "merged": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\LGF\\.android\\build-cache\\39cb772dbddd1fa1e974c2dc5edd87e01a2f9219\\output\\res\\color-v23\\abc_tint_edittext.xml"
     },
     {
-        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
-        "source": "/Users/lucas/.android/build-cache/f92d07247564bd162db0eb32519b6f298287cf0b/output/res/color-v23/abc_tint_btn_checkable.xml"
+        "merged": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\LGF\\.android\\build-cache\\39cb772dbddd1fa1e974c2dc5edd87e01a2f9219\\output\\res\\color-v23\\abc_color_highlight_material.xml"
     },
     {
-        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
-        "source": "/Users/lucas/.android/build-cache/f92d07247564bd162db0eb32519b6f298287cf0b/output/res/color-v23/abc_btn_colored_text_material.xml"
+        "merged": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\LGF\\.android\\build-cache\\39cb772dbddd1fa1e974c2dc5edd87e01a2f9219\\output\\res\\color-v23\\abc_tint_default.xml"
     },
     {
-        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
-        "source": "/Users/lucas/.android/build-cache/f92d07247564bd162db0eb32519b6f298287cf0b/output/res/color-v23/abc_tint_seek_thumb.xml"
+        "merged": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\LGF\\.android\\build-cache\\39cb772dbddd1fa1e974c2dc5edd87e01a2f9219\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
-        "source": "/Users/lucas/.android/build-cache/f92d07247564bd162db0eb32519b6f298287cf0b/output/res/color-v23/abc_tint_spinner.xml"
+        "merged": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\LGF\\.android\\build-cache\\39cb772dbddd1fa1e974c2dc5edd87e01a2f9219\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
     }
 ]

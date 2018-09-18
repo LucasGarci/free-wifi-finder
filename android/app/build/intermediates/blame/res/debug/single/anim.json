@@ -1,74 +1,74 @@
 [
     {
-        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
-        "source": "/Users/lucas/.android/build-cache/f92d07247564bd162db0eb32519b6f298287cf0b/output/res/anim/tooltip_enter.xml"
+        "merged": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_slide_up.xml",
+        "source": "C:\\Users\\LGF\\.android\\build-cache\\a81d36c79b45a75b7e9a8eb91d3750dcacea6f11\\output\\res\\anim\\catalyst_slide_up.xml"
     },
     {
-        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/Users/lucas/.android/build-cache/f92d07247564bd162db0eb32519b6f298287cf0b/output/res/anim/abc_popup_enter.xml"
+        "merged": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_slide_down.xml",
+        "source": "C:\\Users\\LGF\\.android\\build-cache\\a81d36c79b45a75b7e9a8eb91d3750dcacea6f11\\output\\res\\anim\\catalyst_slide_down.xml"
     },
     {
-        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/Users/lucas/.android/build-cache/f92d07247564bd162db0eb32519b6f298287cf0b/output/res/anim/abc_slide_out_top.xml"
+        "merged": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\LGF\\.android\\build-cache\\39cb772dbddd1fa1e974c2dc5edd87e01a2f9219\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/Users/lucas/.android/build-cache/f92d07247564bd162db0eb32519b6f298287cf0b/output/res/anim/abc_fade_in.xml"
+        "merged": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_out.xml",
+        "source": "C:\\Users\\LGF\\.android\\build-cache\\a81d36c79b45a75b7e9a8eb91d3750dcacea6f11\\output\\res\\anim\\catalyst_push_up_out.xml"
     },
     {
-        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
-        "source": "/Users/lucas/.android/build-cache/b67b56630f1f668e91815fb53de37b89602c7612/output/res/anim/catalyst_fade_in.xml"
+        "merged": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\LGF\\.android\\build-cache\\39cb772dbddd1fa1e974c2dc5edd87e01a2f9219\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
-        "source": "/Users/lucas/.android/build-cache/f92d07247564bd162db0eb32519b6f298287cf0b/output/res/anim/tooltip_exit.xml"
+        "merged": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\LGF\\.android\\build-cache\\39cb772dbddd1fa1e974c2dc5edd87e01a2f9219\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/lucas/.android/build-cache/f92d07247564bd162db0eb32519b6f298287cf0b/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\LGF\\.android\\build-cache\\39cb772dbddd1fa1e974c2dc5edd87e01a2f9219\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
-        "source": "/Users/lucas/.android/build-cache/b67b56630f1f668e91815fb53de37b89602c7612/output/res/anim/catalyst_slide_down.xml"
+        "merged": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\LGF\\.android\\build-cache\\39cb772dbddd1fa1e974c2dc5edd87e01a2f9219\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/lucas/.android/build-cache/f92d07247564bd162db0eb32519b6f298287cf0b/output/res/anim/abc_slide_in_bottom.xml"
+        "merged": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\LGF\\.android\\build-cache\\39cb772dbddd1fa1e974c2dc5edd87e01a2f9219\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/Users/lucas/.android/build-cache/f92d07247564bd162db0eb32519b6f298287cf0b/output/res/anim/abc_fade_out.xml"
+        "merged": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\LGF\\.android\\build-cache\\39cb772dbddd1fa1e974c2dc5edd87e01a2f9219\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
-        "source": "/Users/lucas/.android/build-cache/b67b56630f1f668e91815fb53de37b89602c7612/output/res/anim/catalyst_push_up_in.xml"
+        "merged": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\LGF\\.android\\build-cache\\39cb772dbddd1fa1e974c2dc5edd87e01a2f9219\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/lucas/.android/build-cache/f92d07247564bd162db0eb32519b6f298287cf0b/output/res/anim/abc_slide_out_bottom.xml"
+        "merged": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_in.xml",
+        "source": "C:\\Users\\LGF\\.android\\build-cache\\a81d36c79b45a75b7e9a8eb91d3750dcacea6f11\\output\\res\\anim\\catalyst_push_up_in.xml"
     },
     {
-        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
-        "source": "/Users/lucas/.android/build-cache/b67b56630f1f668e91815fb53de37b89602c7612/output/res/anim/catalyst_slide_up.xml"
+        "merged": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_fade_out.xml",
+        "source": "C:\\Users\\LGF\\.android\\build-cache\\a81d36c79b45a75b7e9a8eb91d3750dcacea6f11\\output\\res\\anim\\catalyst_fade_out.xml"
     },
     {
-        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
-        "source": "/Users/lucas/.android/build-cache/b67b56630f1f668e91815fb53de37b89602c7612/output/res/anim/catalyst_fade_out.xml"
+        "merged": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\LGF\\.android\\build-cache\\39cb772dbddd1fa1e974c2dc5edd87e01a2f9219\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/Users/lucas/.android/build-cache/f92d07247564bd162db0eb32519b6f298287cf0b/output/res/anim/abc_popup_exit.xml"
+        "merged": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\LGF\\.android\\build-cache\\39cb772dbddd1fa1e974c2dc5edd87e01a2f9219\\output\\res\\anim\\tooltip_exit.xml"
     },
     {
-        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
-        "source": "/Users/lucas/.android/build-cache/b67b56630f1f668e91815fb53de37b89602c7612/output/res/anim/catalyst_push_up_out.xml"
+        "merged": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_fade_in.xml",
+        "source": "C:\\Users\\LGF\\.android\\build-cache\\a81d36c79b45a75b7e9a8eb91d3750dcacea6f11\\output\\res\\anim\\catalyst_fade_in.xml"
     },
     {
-        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/Users/lucas/.android/build-cache/f92d07247564bd162db0eb32519b6f298287cf0b/output/res/anim/abc_slide_in_top.xml"
+        "merged": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\LGF\\.android\\build-cache\\39cb772dbddd1fa1e974c2dc5edd87e01a2f9219\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/lucas/.android/build-cache/f92d07247564bd162db0eb32519b6f298287cf0b/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "C:\\Users\\LGF\\Desktop\\desarrollo\\free-wifi-finder\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\LGF\\.android\\build-cache\\39cb772dbddd1fa1e974c2dc5edd87e01a2f9219\\output\\res\\anim\\tooltip_enter.xml"
     }
 ]

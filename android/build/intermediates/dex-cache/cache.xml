@@ -3,273 +3,273 @@
 
     <item
         is-multidex="false"
-        jar="/Users/lucas/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jar="C:\Users\LGF\.android\build-cache\16ee8f1e950beb391a5c6dbf3ac9f2bb02837c37\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_9dbea4bb06b23bb1fd4010ad3628bdc12a429d15.jar" />
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\classes_25f8c11a5eb0269393671c381f1fe48bbcc316c4.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/lucas/.android/build-cache/f159a55262964bbc297be6e71484ac7853ce28df/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/classes_60bc15db487245c96f6d2ccc75bd53e4a685c368.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lucas/.android/build-cache/5af3922af77eef85f8523a105b7ffcf9eaa8c3e3/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/classes_ef669a822a6d234cf207428de044d4312423e652.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lucas/.android/build-cache/95a52d589ba80a1bfdf7c24ed532f7f8a4b9e52d/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/classes_e81e0af4565c9b617e861dc68601e20cd75d0fdc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lucas/.android/build-cache/632f075cf858087d3013e26dbd1a15a49b099963/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="508f50705b4fde51a16259f29c854201a3044516">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/classes_53042c926ec69d492c4cb74636b700c9cfb652ce.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lucas/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_f63c45236a932e14327a65a50ff8dbdc71ac4051.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lucas/.android/build-cache/db745c0fe618228d5e4709fc34456e92ed5983b3/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/classes_00d970f40be4ca4c53343d4c2d3feaed46e7377b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lucas/.android/build-cache/f68522bd677907ef02422b53b059195b66a45609/output/jars/classes.jar"
+        jar="C:\Users\LGF\.android\build-cache\f355d20478f1c3a0edcaf10d9ec542a4cb995880\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
         sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/classes_80ac129fbd02ee24a709c1cd48912228474be2a3.jar" />
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\classes_d6d13065635174e37f5a7f7ea67e0fd8b53d199e.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/lucas/.android/build-cache/3222db9c75701a2ce9970f5dd81dd67a3bb64af8/output/jars/classes.jar"
+        jar="C:\Users\LGF\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/classes_29e1c4f8b7566eb1c7c325db80d6f92a007ed061.jar" />
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\common-1.0.0_4fcb30d4a94f3a1be4054f2fc573c4d1153bb0b1.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/lucas/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_5aae5fbc85bb206595b925b3c8bb38eb8daf4c3b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lucas/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="ec614c05825ddd2267677a99f585d3913474b125">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_7c38ad291e9bf4eb4fecedaebd9b713464384b2e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lucas/.android/build-cache/f92d07247564bd162db0eb32519b6f298287cf0b/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/classes_f002b25888ea44622c7b4f11e2dfe7c5c7fb0a5c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lucas/.android/build-cache/17346e81927d4bfd53dee8872c049750a9d4c2ea/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/classes_2df0f5c9487933a8800faa18a855b8937e5f8c15.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lucas/.android/build-cache/b67b56630f1f668e91815fb53de37b89602c7612/output/jars/libs/infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_52ffbd6ed22179cd2a5f7e0538105fa0f320f974.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lucas/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_c147797447e3ee7d8199c22989d41b4d8ce7834f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lucas/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="102d7be47241d781ef95f1581d414b0943053130">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_955733fe20160e90cc25098c8f8a933b8920cebc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lucas/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_c5de420905326e3135e4fea96d76fa0f953864b6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lucas/.android/build-cache/855cc861f502fa132d72cc12c6e5d839fc0ce1da/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/classes_68779a7bbb80a2d4c450e5d839f064e375bf3ab9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lucas/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_f711976e06fce435514874f278762758e6948e87.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lucas/.android/build-cache/1dc659b273f3f5948dab13e8e3f5a2aecbf49af6/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/classes_3b670c59c5694568d299711623e5bfc70a63efc2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lucas/.android/build-cache/b67b56630f1f668e91815fb53de37b89602c7612/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="852750162fda1e0c8985d903d070a0335cf73e4d">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/classes_cd725beb3986563540fdebf3d752c74eceff3d69.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lucas/.android/build-cache/50cf5b1f72b9cca951b613d85a5adf69c4c2c2c2/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/classes_bac0ae5d05ae7a1f9a0af28ded5c02a71188a3ca.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lucas/.android/build-cache/f9e83173a914e68aade8b5bbf210df3806db6982/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/classes_763966c3130463f75609531de110c6e9090769fd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lucas/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_ca94b895d2fe7c6fe6360f37b69b6c9b7d153d8f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lucas/.android/build-cache/e525d33f0ce41401c5015a33b31e9120b862c611/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/classes_b1d7e7d309beb30567e4e76945cca5d8e7a4c163.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lucas/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_eb0e0aaf880d151d1e00d64e3e03a93820f1f942.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lucas/.android/build-cache/1c82cac831778966b69edcc3083e5a58b219121b/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/classes_fc7581a650d54ddc50cddb49069978e34bf6aee5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lucas/.android/build-cache/cf5de966d7c18c971e516561b13380690feeb4bc/output/jars/classes.jar"
+        jar="C:\Users\LGF\.android\build-cache\c3bf5e1e76534cb50c923c428b0d2835eb85295d\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
         sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/classes_2b781fa335e5ead2b5e9d0cdfa0036055950a2c3.jar" />
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\classes_40afc86ffa8e697678afa5a06c3b478f44a253bb.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/lucas/.android/build-cache/f57ac642c4b2f184101a4f58ae82379a3c1f44c3/output/jars/classes.jar"
+        jar="C:\Users\LGF\.android\build-cache\59b3278ffcd891c7e812c5760541b3406ece9de9\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/classes_0ef7d2c129450dd44627790e0729d42f4f9ce748.jar" />
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\classes_61dc1c00a14baa9cb8bbfd2d7bc3f575ba389622.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/lucas/.android/build-cache/006ac665bb7f74d2b2d72791d14129244206e212/output/jars/classes.jar"
+        jar="C:\Users\LGF\.android\build-cache\f3c83fc992db25cf38951fab617bf7379888fae0\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
-        <dex dex="/Users/lucas/Development/free-wifi-finder/android/app/build/intermediates/pre-dexed/debug/classes_a0075e6ae2b44392a65756303511dbc94a5382bf.jar" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\classes_dbd91e6994911d58f7d2519f87010f8603c386bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LGF\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\common-1.0.0_426779fc0da82a100f948b46e23eb08d7842745f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LGF\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_f885b97149331bd07724ae2d7c1eab178c9a14e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LGF\.android\build-cache\87622e60d35066bbfb55b0a96f4cd2646beae855\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\classes_bd90a742c703cf387b97d6cb680543fd82cb61b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LGF\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_6cbb9621940548da32185e8bc131adcf37a4e34e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LGF\.android\build-cache\6d3a0569fdcfced188baf8e708cab2bb4e6c44cd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\classes_b939425bcf3cffc26bbbaa683b716e9d1293911b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LGF\.android\build-cache\e5e2f63a4a2a82ceb74e7fc328645774d0e0b17d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\classes_d8d26fc81d4c37f4ed2f4d24be43bd3c69d2500f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LGF\.android\build-cache\5a9bbda8df2814827ffbc1ffb3f4c7cf6018413f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\classes_d8d56ef611305ac71c0fd3de45bcb11a005ce89c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LGF\.android\build-cache\a81d36c79b45a75b7e9a8eb91d3750dcacea6f11\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\classes_58aedb824af2b2b02cc6df47e6f497bbd46a4766.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LGF\.android\build-cache\0770503aeeca7cdfbb018bd18d0326360bf366b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\classes_9146cfa91cdc85f9ee99687c55d1c62bef6f0205.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LGF\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_4c2af5b7700c59d36dac273064c71616fd576544.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LGF\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_98e5ceeb5357d0cbd31e89f094ba3c73ea00c2c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LGF\.android\build-cache\f2ce0c3d31c93157137f9c99ed28b5e1cb92214d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\classes_a2e669386dbaee8d2f2e80cdd59484a9db4d10ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LGF\.android\build-cache\66225f28620a9ef7fe2375f3dfb1206461082e70\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\classes_343c2d3da79f8ccb71f88990c66fbe2b760333a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LGF\.android\build-cache\372ed789891a6743fa8b4dc97f2a63f6a2846d83\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\classes_19420d8a5185e0a78d64f45c2c73d284aabf5fd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LGF\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_e030753c03db37d52fcfb9f21c8b72d81a2e39d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LGF\.android\build-cache\38cb8dd12174731f246ec37967514ba25ff9e4f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\classes_1cdd21e89aaa946a99f247e9888cde8ec6a27e9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LGF\.android\build-cache\984f44d4b886f2a8d1925802e53b4ec3c8decb3b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\classes_e7a58eb3f32f9ac18a433cc8f816ced905b14be4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LGF\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_b36980dbc599b194d766c61d3a96af89fae00992.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LGF\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_62dc32392247ee89e7c1af5aa66c2ba4e4c1b36f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LGF\.android\build-cache\76c93dab1e438c1b16859dd04003d57287674f06\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\classes_d31a72679aaf2e7dcfbe7c73a7b5f6362335b809.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LGF\.android\build-cache\a81d36c79b45a75b7e9a8eb91d3750dcacea6f11\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_ffccbba611bcb40ba16cb1459972648f379d0496.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LGF\.android\build-cache\39cb772dbddd1fa1e974c2dc5edd87e01a2f9219\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\classes_3dde543e7b802fd9afe7adfb76bf8dee310b1422.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LGF\.android\build-cache\a49b4a3a1de8283060284717b0ddeb068ebb0cb0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\classes_8f7714c75c5c75cd847d5d6f3e7e70b719ba920b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LGF\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\LGF\Desktop\desarrollo\free-wifi-finder\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_39b960f0c2f351ed1d943b046b453a627c07793c.jar" />
     </item>
 
 </items>
